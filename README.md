@@ -1,3 +1,4 @@
-# leetCode
-some of the leetcode questions are uploaded here
-solved question  from leetcode
+# LeetCode
+Some of the leetCode questions are uploaded here.
+
+Solved question  from leetCode
